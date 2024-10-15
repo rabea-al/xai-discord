@@ -90,7 +90,7 @@ jobs:
               WORKFLOW_LOG_FILE="${FULL_PATH%.*}_workflow_log.txt"
               echo -e "\n\nProcessing $FULL_PATH..." | tee -a $LOG_FILE
               xircuits compile $FULL_PATH "${FULL_PATH%.*}.py" 2>&1 | tee -a $LOG_FILE
-              python "${FULL_PATH%.*}.py" 2>&1 | tee -a $WORKFLOW_LOG_FILE
+              python "${FULL_PATH%.*}.py" --token ${secrets.DISCORD_TOKEN} 2>&1 | tee -a $WORKFLOW_LOG_FILE
               LAST_LINE=$(tail -n 1 "$WORKFLOW_LOG_FILE")
               if [[ "$LAST_LINE" != "Finished Executing" ]]; then
                 echo "Error: Workflow $FULL_PATH did not finish as expected" | tee -a $LOG_FILE
