@@ -91,7 +91,7 @@ jobs:
               echo -e "\n\nProcessing $FULL_PATH..." | tee -a $LOG_FILE
               xircuits compile $FULL_PATH "${FULL_PATH%.*}.py" 2>&1 | tee -a $LOG_FILE
     
-              timeout -s SIGKILL 240 python "${FULL_PATH%.*}.py" --token ${{secrets.DISCORD_TOKEN}} 2>&1 | tee -a $WORKFLOW_LOG_FILE
+              timeout --signal=SIGTERM 120 python "${FULL_PATH%.*}.py" --token ${{secrets.DISCORD_TOKEN}} 2>&1 | tee -a $WORKFLOW_LOG_FILE
               EXIT_CODE=$?
               echo "EXIT_CODE $EXIT_CODE." | tee -a $LOG_FILE
               if [ $EXIT_CODE -eq 124 ]; then
