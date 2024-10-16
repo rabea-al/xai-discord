@@ -79,6 +79,7 @@ jobs:
         echo "Repository: $LIBRARY_NAME" > $LOG_FILE
         echo "Branch: $BRANCH_NAME" >> $LOG_FILE
         echo -e "Testing Files:\n$TEST_FILES" >> $LOG_FILE
+        DISCORD_TOKEN="${{secrets.DISCORD_TOKEN}}"
         IFS=' ' read -r -a FILE_ARRAY <<< "$TEST_FILES"
         FAIL=0
         if [ ${#FILE_ARRAY[@]} -eq 0 ]; then
@@ -91,7 +92,7 @@ jobs:
               echo -e "\n\nProcessing $FULL_PATH..." | tee -a $LOG_FILE
               xircuits compile $FULL_PATH "${FULL_PATH%.*}.py" 2>&1 | tee -a $LOG_FILE
     
-              python "${FULL_PATH%.*}.py" --token ${{secrets.DISCORD_TOKEN}} 2>&1 | tee -a $WORKFLOW_LOG_FILE &
+              python "${FULL_PATH%.*}.py" --token "$DISCORD_TOKEN" 2>&1 | tee -a $WORKFLOW_LOG_FILE &
               WORKFLOW_PID=$!
     
               SLEEP_TIME=120
