@@ -6,7 +6,7 @@
     "gridSize": 0,
     "layers": [
         {
-            "id": "77678879-2a00-4db7-a6e9-9cb64e6ccf3a",
+            "id": "61e07054-1516-471a-bf47-3ccc25deb26f",
             "type": "diagram-links",
             "isSvg": true,
             "transformed": true,
@@ -17,19 +17,19 @@
                     "selected": false,
                     "source": "f2e8590e-a852-4f38-beab-2f9195005df7",
                     "sourcePort": "bf8a4e2a-acf6-4402-ae31-00832051219c",
-                    "target": "f4b3b4be-a79e-4a54-9000-b0910c41489d",
-                    "targetPort": "4afe61fa-5356-4229-8cdc-d39869e021b4",
+                    "target": "4bae76e6-973b-4dc5-a5e5-001f151df81d",
+                    "targetPort": "fc292275-22bf-4c63-9e89-b3ae35ec4521",
                     "points": [
                         {
                             "id": "915c1ef5-8f06-40e7-933c-2a4c473fdbb8",
                             "type": "point",
-                            "x": -122.18746709996292,
+                            "x": -122.18750177902898,
                             "y": 79.17499959667842
                         },
                         {
                             "id": "95621c4e-c084-43ae-b917-0e9b75f78610",
                             "type": "point",
-                            "x": -76.11247847469659,
+                            "x": -76.11251315376263,
                             "y": 149.77499989145048
                         }
                     ],
@@ -45,8 +45,8 @@
                     "selected": false,
                     "source": "a62090e4-1c85-4b93-bc00-c9bd3d4c3b2f",
                     "sourcePort": "8a0d365e-17d1-4b36-a706-b9b2466739b8",
-                    "target": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                    "targetPort": "a4691161-5fc8-4ea9-8f82-2716bc850001",
+                    "target": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                    "targetPort": "c8c4e815-3043-4a05-b95c-14ab003f25a6",
                     "points": [
                         {
                             "id": "da80e56c-1b6e-4093-a94b-8fd1fcd6e82b",
@@ -73,8 +73,8 @@
                     "selected": false,
                     "source": "05f6a2a4-09fd-4b86-9d58-7b6100a9635f",
                     "sourcePort": "0a93b1c9-5a1d-4472-b4ec-89f32192874c",
-                    "target": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                    "targetPort": "aa670f0e-b826-4fdc-ab5e-d764c16680ce",
+                    "target": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                    "targetPort": "773cd2bc-ef4b-4d45-ba27-6d418d6dbb7b",
                     "points": [
                         {
                             "id": "b56d5cfd-44de-40bd-9421-725dfb010249",
@@ -99,10 +99,10 @@
                     "id": "92084b70-0aa5-4921-a9e6-579531ad4d8e",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "f4b3b4be-a79e-4a54-9000-b0910c41489d",
-                    "sourcePort": "ad836562-a935-47db-9dd4-1aff1e991d40",
-                    "target": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                    "targetPort": "a684e1fe-a51a-43f9-813e-0168cd3957ed",
+                    "source": "4bae76e6-973b-4dc5-a5e5-001f151df81d",
+                    "sourcePort": "127dc107-8b7f-45fa-b46d-cef6eb44783f",
+                    "target": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                    "targetPort": "de6da7e1-264e-4855-a48c-9ef9473355f1",
                     "points": [
                         {
                             "id": "cb938bc2-bb5f-4cfe-8098-562857a07074",
@@ -129,13 +129,13 @@
                     "selected": false,
                     "source": "edeacca4-189e-4e93-977c-7baf07eed7d3",
                     "sourcePort": "12a1645f-297a-4a57-9a01-4fd80908e745",
-                    "target": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                    "targetPort": "48a499f4-ed12-45b5-81be-6791325c6f2a",
+                    "target": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                    "targetPort": "279509f8-2776-4e04-aa12-7ef7909f0089",
                     "points": [
                         {
                             "id": "6b5b8bed-4ac5-43a7-a7e0-cc299716567c",
                             "type": "point",
-                            "x": 282.6500892188404,
+                            "x": 282.6499927676879,
                             "y": 355.62500612501265
                         },
                         {
@@ -157,8 +157,8 @@
                     "selected": false,
                     "source": "f599d71f-42f7-4d0a-a1cd-9bcfc3a080ae",
                     "sourcePort": "674b4e87-6d8c-4f23-a532-deb52b47a5e2",
-                    "target": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                    "targetPort": "2fe24476-ac5d-4637-a895-2a5711f8d5d7",
+                    "target": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                    "targetPort": "6c2d4809-ad88-4f33-a7f9-8eab1e3ae79e",
                     "points": [
                         {
                             "id": "b6b49e02-d544-4cb7-9c89-3d1af980372b",
@@ -185,8 +185,8 @@
                     "selected": false,
                     "source": "6e4b0b0b-a64e-408c-8eb9-0b7ef2f80d10",
                     "sourcePort": "31cb8b30-97c3-4e26-982e-6ca5db462d64",
-                    "target": "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1",
-                    "targetPort": "bf954cc4-e19a-4d00-bb9b-ae9b48c582d0",
+                    "target": "e89417af-2cd3-4ded-b04c-ea03319f5da8",
+                    "targetPort": "14b81c97-47fa-42a4-8d41-13d2afe8fc23",
                     "points": [
                         {
                             "id": "2b2d95b4-a1b2-4a38-84c7-bc0dd245aeb2",
@@ -197,7 +197,7 @@
                         {
                             "id": "2419811a-905d-4df0-8c2c-d4450fde4a05",
                             "type": "point",
-                            "x": 592.2374779077081,
+                            "x": 592.2375472658402,
                             "y": 433.0374900339259
                         }
                     ],
@@ -211,21 +211,21 @@
                     "id": "ddf0437d-56ef-4b20-bda6-6142f72ecca0",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88",
-                    "sourcePort": "008d06c5-e6b5-4934-825a-25e0306d12b5",
-                    "target": "f99ca041-322e-45a2-8646-73f2319a7a12",
-                    "targetPort": "dde714d8-bc9e-4f11-9851-f6cb86e72a6f",
+                    "source": "fc0b902f-c64a-46b8-8767-dc306d8e3d53",
+                    "sourcePort": "c2767775-061d-42ad-b449-7afc9021df56",
+                    "target": "8e6e0f94-b83d-4092-9ec7-baba2d06473e",
+                    "targetPort": "0b5eadd0-2526-479e-a680-be053fb017d5",
                     "points": [
                         {
                             "id": "ea04db10-cce9-4c77-81e8-e7ec008835d0",
                             "type": "point",
-                            "x": 940.4374956633899,
+                            "x": 940.437565021522,
                             "y": 498.95001417055596
                         },
                         {
                             "id": "81d3895d-c4f5-4d7d-8ea5-68d2d4df0669",
                             "type": "point",
-                            "x": 965.537482996861,
+                            "x": 965.5375523549931,
                             "y": 573.8625188869089
                         }
                     ],
@@ -239,21 +239,21 @@
                     "id": "f89a13f2-8fd5-4f23-9b57-cd41409f9baf",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1",
-                    "sourcePort": "ecc0f896-2f26-46cc-853d-0daa6ba3c7a0",
-                    "target": "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88",
-                    "targetPort": "00a11c7a-87b9-4402-898a-e497c42d6d13",
+                    "source": "e89417af-2cd3-4ded-b04c-ea03319f5da8",
+                    "sourcePort": "3ee4e509-31e2-4d1a-8d27-b3f45bb722b7",
+                    "target": "fc0b902f-c64a-46b8-8767-dc306d8e3d53",
+                    "targetPort": "b28e7c92-5ab1-4c34-b872-3836393fc770",
                     "points": [
                         {
                             "id": "7f554509-8aae-45ff-89a4-54b59fe9a081",
                             "type": "point",
-                            "x": 750.5749918747019,
+                            "x": 750.5624651458118,
                             "y": 411.43752212073184
                         },
                         {
                             "id": "39479bf5-a050-43fb-a4ec-6d9712c8d074",
                             "type": "point",
-                            "x": 797.5750575915321,
+                            "x": 797.5749882334001,
                             "y": 498.95001417055596
                         }
                     ],
@@ -267,10 +267,10 @@
                     "id": "cfd474f1-20ff-4394-83f2-0f9a89076f8e",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                    "sourcePort": "79e6b6e0-781f-4074-979a-297785e36edc",
-                    "target": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                    "targetPort": "02a71555-10a3-4048-a4b6-cd39aa872d1b",
+                    "source": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                    "sourcePort": "cb1cc96b-e2d3-4031-a162-f6960d89e3de",
+                    "target": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                    "targetPort": "ed2a88cb-8ad7-4659-9ee7-7d1f53ccbbe9",
                     "points": [
                         {
                             "id": "270c9f17-fd04-40a2-86ad-04c2d419509a",
@@ -295,10 +295,10 @@
                     "id": "4a3e0f16-ddae-40b7-b634-946df61f892b",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                    "sourcePort": "35b2982d-fb6a-44ef-9166-a2756bdd11d1",
-                    "target": "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1",
-                    "targetPort": "f5cc09cb-6a81-4344-999b-f8e53502e2ff",
+                    "source": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                    "sourcePort": "8c1e82af-999b-4259-8cf0-f76bdb21b2c2",
+                    "target": "e89417af-2cd3-4ded-b04c-ea03319f5da8",
+                    "targetPort": "e23c008c-932d-46ad-9c56-4524036818ab",
                     "points": [
                         {
                             "id": "0df750a5-4189-4eeb-881c-a445181c81db",
@@ -309,7 +309,7 @@
                         {
                             "id": "d9f33f95-c09f-4288-98be-8cd9336522e7",
                             "type": "point",
-                            "x": 592.2374779077081,
+                            "x": 592.2375472658402,
                             "y": 411.43752212073184
                         }
                     ],
@@ -321,24 +321,24 @@
                 },
                 "4499530e-e800-4ee7-982a-4ba98ca0cb86": {
                     "id": "4499530e-e800-4ee7-982a-4ba98ca0cb86",
-                    "type": "default",
-                    "selected": true,
+                    "type": "triangle-link",
+                    "selected": false,
                     "source": "d92ea62e-78c1-44eb-8219-274ef1f0e699",
                     "sourcePort": "3614e995-9447-4c3b-928f-31e19342bdd4",
-                    "target": "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88",
-                    "targetPort": "4d792116-f54a-43cd-85a4-bc27b76eb60f",
+                    "target": "fc0b902f-c64a-46b8-8767-dc306d8e3d53",
+                    "targetPort": "df5c13d4-4c3a-4ffd-9349-56dca8d22515",
                     "points": [
                         {
                             "id": "46d85e38-419e-49ba-8621-c071816a0ec6",
                             "type": "point",
-                            "x": 684.6000107401139,
+                            "x": 684.600080098246,
                             "y": 585.787505292715
                         },
                         {
                             "id": "34187bcd-1cf2-4343-9e1d-6d48a55aec4e",
                             "type": "point",
-                            "x": 801.9599621495404,
-                            "y": 523.2858125208035
+                            "x": 797.5749882334001,
+                            "y": 520.5500438558365
                         }
                     ],
                     "labels": [],
@@ -350,7 +350,7 @@
             }
         },
         {
-            "id": "e218bd46-2ced-4f1e-ac10-95772d3f7bb9",
+            "id": "2238e694-ea3d-4067-b38d-366dfeb35d0a",
             "type": "diagram-nodes",
             "isSvg": false,
             "transformed": true,
@@ -370,7 +370,7 @@
                             "id": "bf8a4e2a-acf6-4402-ae31-00832051219c",
                             "type": "default",
                             "extras": {},
-                            "x": -132.48748241944034,
+                            "x": -132.4875170985064,
                             "y": 68.87499728185075,
                             "name": "out-0",
                             "alignment": "right",
@@ -517,7 +517,7 @@
                             "id": "12a1645f-297a-4a57-9a01-4fd80908e745",
                             "type": "default",
                             "extras": {},
-                            "x": 272.35007389936294,
+                            "x": 272.3500045412308,
                             "y": 345.32501789855553,
                             "name": "out-0",
                             "alignment": "right",
@@ -575,503 +575,10 @@
                         "674b4e87-6d8c-4f23-a532-deb52b47a5e2"
                     ]
                 },
-                "f99ca041-322e-45a2-8646-73f2319a7a12": {
-                    "id": "f99ca041-322e-45a2-8646-73f2319a7a12",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "Finish"
-                    },
-                    "x": 954.44,
-                    "y": 536.763,
-                    "ports": [
-                        {
-                            "id": "dde714d8-bc9e-4f11-9851-f6cb86e72a6f",
-                            "type": "default",
-                            "extras": {},
-                            "x": 955.2374113239013,
-                            "y": 563.5625306604518,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "f99ca041-322e-45a2-8646-73f2319a7a12",
-                            "links": [
-                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "481af593-3b5f-476e-9825-79e87583bd8c",
-                            "type": "default",
-                            "extras": {},
-                            "x": 955.2374113239013,
-                            "y": 585.1625256666663,
-                            "name": "parameter-dynalist-outputs",
-                            "alignment": "left",
-                            "parentNode": "f99ca041-322e-45a2-8646-73f2319a7a12",
-                            "links": [],
-                            "in": true,
-                            "label": "outputs",
-                            "varName": "outputs",
-                            "portType": "",
-                            "dataType": "dynalist",
-                            "dynaPortOrder": 0,
-                            "dynaPortRef": {
-                                "previous": null,
-                                "next": null
-                            }
-                        }
-                    ],
-                    "name": "Finish",
-                    "color": "rgb(255,102,102)",
-                    "portsInOrder": [
-                        "dde714d8-bc9e-4f11-9851-f6cb86e72a6f",
-                        "481af593-3b5f-476e-9825-79e87583bd8c"
-                    ],
-                    "portsOutOrder": []
-                },
-                "f4b3b4be-a79e-4a54-9000-b0910c41489d": {
-                    "id": "f4b3b4be-a79e-4a54-9000-b0910c41489d",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Initializes a Discord client with the default intents and enables message content.\n\n##### ctx:\n- discord_client: A Discord client instance with the default intents and message content enabled.",
-                        "lineNo": [
-                            {
-                                "lineno": 9,
-                                "end_lineno": 26
-                            }
-                        ]
-                    },
-                    "x": -87.223,
-                    "y": 112.685,
-                    "ports": [
-                        {
-                            "id": "4afe61fa-5356-4229-8cdc-d39869e021b4",
-                            "type": "default",
-                            "extras": {},
-                            "x": -86.41249379417401,
-                            "y": 139.47499757662283,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "f4b3b4be-a79e-4a54-9000-b0910c41489d",
-                            "links": [
-                                "7050d17f-1631-4aee-86ab-e1f7051c6617"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "ad836562-a935-47db-9dd4-1aff1e991d40",
-                            "type": "default",
-                            "extras": {},
-                            "x": 48.887535613674,
-                            "y": 139.47499757662283,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "f4b3b4be-a79e-4a54-9000-b0910c41489d",
-                            "links": [
-                                "92084b70-0aa5-4921-a9e6-579531ad4d8e"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordClientInit",
-                    "color": "rgb(102,51,102)",
-                    "portsInOrder": [
-                        "4afe61fa-5356-4229-8cdc-d39869e021b4"
-                    ],
-                    "portsOutOrder": [
-                        "ad836562-a935-47db-9dd4-1aff1e991d40"
-                    ]
-                },
-                "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e": {
-                    "id": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Adds a message responder that listens for a specified trigger message and responds with the specified response.\n\n##### inPorts:\n- msg_trigger: The message trigger that the bot listens for.\n- msg_response: The response the bot sends when the trigger is detected.\n\n##### ctx:\n- message_responders: A list of tuples containing message triggers and their corresponding responses.\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
-                        "lineNo": [
-                            {
-                                "lineno": 30,
-                                "end_lineno": 68
-                            }
-                        ]
-                    },
-                    "x": 103.579,
-                    "y": 190.422,
-                    "ports": [
-                        {
-                            "id": "a684e1fe-a51a-43f9-813e-0168cd3957ed",
-                            "type": "default",
-                            "extras": {},
-                            "x": 104.37501230934161,
-                            "y": 217.21250236233394,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                            "links": [
-                                "92084b70-0aa5-4921-a9e6-579531ad4d8e"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "a4691161-5fc8-4ea9-8f82-2716bc850001",
-                            "type": "default",
-                            "extras": {},
-                            "x": 104.37501230934161,
-                            "y": 238.81251470808144,
-                            "name": "parameter-string-msg_trigger",
-                            "alignment": "left",
-                            "parentNode": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                            "links": [
-                                "54738be9-1998-42eb-9c58-d16ebfe0df66"
-                            ],
-                            "in": true,
-                            "label": "★msg_trigger",
-                            "varName": "★msg_trigger",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "aa670f0e-b826-4fdc-ab5e-d764c16680ce",
-                            "type": "default",
-                            "extras": {},
-                            "x": 104.37501230934161,
-                            "y": 260.4124923747629,
-                            "name": "parameter-string-msg_response",
-                            "alignment": "left",
-                            "parentNode": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                            "links": [
-                                "c2ff702a-67c2-4f20-be5e-3abeb1f397dd"
-                            ],
-                            "in": true,
-                            "label": "★msg_response",
-                            "varName": "★msg_response",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "79e6b6e0-781f-4074-979a-297785e36edc",
-                            "type": "default",
-                            "extras": {},
-                            "x": 297.7250239615078,
-                            "y": 217.21250236233394,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "f1a7bc84-13a0-4aa5-ba64-89269ca30b4e",
-                            "links": [
-                                "cfd474f1-20ff-4394-83f2-0f9a89076f8e"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordMessageResponder",
-                    "color": "rgb(153,51,204)",
-                    "portsInOrder": [
-                        "a684e1fe-a51a-43f9-813e-0168cd3957ed",
-                        "a4691161-5fc8-4ea9-8f82-2716bc850001",
-                        "aa670f0e-b826-4fdc-ab5e-d764c16680ce"
-                    ],
-                    "portsOutOrder": [
-                        "79e6b6e0-781f-4074-979a-297785e36edc"
-                    ]
-                },
-                "3dcc032c-7822-424a-b0fe-aefd495fb580": {
-                    "id": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Adds a message responder that listens for a specified trigger message and responds with the specified response.\n\n##### inPorts:\n- msg_trigger: The message trigger that the bot listens for.\n- msg_response: The response the bot sends when the trigger is detected.\n\n##### ctx:\n- message_responders: A list of tuples containing message triggers and their corresponding responses.\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
-                        "lineNo": [
-                            {
-                                "lineno": 30,
-                                "end_lineno": 68
-                            }
-                        ]
-                    },
-                    "x": 357.215,
-                    "y": 300.353,
-                    "ports": [
-                        {
-                            "id": "02a71555-10a3-4048-a4b6-cd39aa872d1b",
-                            "type": "default",
-                            "extras": {},
-                            "x": 358.0125689055774,
-                            "y": 327.1500141532164,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                            "links": [
-                                "cfd474f1-20ff-4394-83f2-0f9a89076f8e"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "48a499f4-ed12-45b5-81be-6791325c6f2a",
-                            "type": "default",
-                            "extras": {},
-                            "x": 358.0125689055774,
-                            "y": 348.7500264989639,
-                            "name": "parameter-string-msg_trigger",
-                            "alignment": "left",
-                            "parentNode": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                            "links": [
-                                "51b25cea-9cb0-4fcc-bd20-f0c9b82de77f"
-                            ],
-                            "in": true,
-                            "label": "★msg_trigger",
-                            "varName": "★msg_trigger",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "2fe24476-ac5d-4637-a895-2a5711f8d5d7",
-                            "type": "default",
-                            "extras": {},
-                            "x": 358.0125689055774,
-                            "y": 370.3500215051784,
-                            "name": "parameter-string-msg_response",
-                            "alignment": "left",
-                            "parentNode": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                            "links": [
-                                "f76af186-01c4-46dc-ada1-cdd17cebe80f"
-                            ],
-                            "in": true,
-                            "label": "★msg_response",
-                            "varName": "★msg_response",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "35b2982d-fb6a-44ef-9166-a2756bdd11d1",
-                            "type": "default",
-                            "extras": {},
-                            "x": 551.3625111996115,
-                            "y": 327.1500141532164,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "3dcc032c-7822-424a-b0fe-aefd495fb580",
-                            "links": [
-                                "4a3e0f16-ddae-40b7-b634-946df61f892b"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordMessageResponder",
-                    "color": "rgb(153,51,204)",
-                    "portsInOrder": [
-                        "02a71555-10a3-4048-a4b6-cd39aa872d1b",
-                        "48a499f4-ed12-45b5-81be-6791325c6f2a",
-                        "2fe24476-ac5d-4637-a895-2a5711f8d5d7"
-                    ],
-                    "portsOutOrder": [
-                        "35b2982d-fb6a-44ef-9166-a2756bdd11d1"
-                    ]
-                },
-                "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1": {
-                    "id": "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Adds a shutdown command for the Discord bot that can be executed by an administrator.\n\n##### inPorts:\n- shutdown_cmd: The command that, when received from an administrator, will shut down the bot.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
-                        "lineNo": [
-                            {
-                                "lineno": 73,
-                                "end_lineno": 97
-                            }
-                        ]
-                    },
-                    "x": 581.143,
-                    "y": 374.348,
-                    "ports": [
-                        {
-                            "id": "f5cc09cb-6a81-4344-999b-f8e53502e2ff",
-                            "type": "default",
-                            "extras": {},
-                            "x": 581.9375178579921,
-                            "y": 401.1375068012544,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1",
-                            "links": [
-                                "4a3e0f16-ddae-40b7-b634-946df61f892b"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "bf954cc4-e19a-4d00-bb9b-ae9b48c582d0",
-                            "type": "default",
-                            "extras": {},
-                            "x": 581.9375178579921,
-                            "y": 422.73750180746885,
-                            "name": "parameter-string-shutdown_cmd",
-                            "alignment": "left",
-                            "parentNode": "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1",
-                            "links": [
-                                "b7e21308-8291-4225-acdf-d64025ad9d75"
-                            ],
-                            "in": true,
-                            "label": "★shutdown_cmd",
-                            "varName": "★shutdown_cmd",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "ecc0f896-2f26-46cc-853d-0daa6ba3c7a0",
-                            "type": "default",
-                            "extras": {},
-                            "x": 740.2749202017421,
-                            "y": 401.1375068012544,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "daa0d8c0-b4e2-4470-88cb-c9df95ec73a1",
-                            "links": [
-                                "f89a13f2-8fd5-4f23-9b57-cd41409f9baf"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordShutdownBot",
-                    "color": "rgb(102,102,102)",
-                    "portsInOrder": [
-                        "f5cc09cb-6a81-4344-999b-f8e53502e2ff",
-                        "bf954cc4-e19a-4d00-bb9b-ae9b48c582d0"
-                    ],
-                    "portsOutOrder": [
-                        "ecc0f896-2f26-46cc-853d-0daa6ba3c7a0"
-                    ]
-                },
-                "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88": {
-                    "id": "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Deploys the Discord bot using the provided token, running either in Xircuits or as a standalone script.\n\n##### inPorts:\n- token: The bot token to be used for authentication. \n    If not provided, will search for 'DISCORD_BOT_TOKEN' from env.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
-                        "lineNo": [
-                            {
-                                "lineno": 101,
-                                "end_lineno": 134
-                            }
-                        ],
-                        "borderColor": "rgb(0,192,255)"
-                    },
-                    "x": 786.479,
-                    "y": 461.853,
-                    "ports": [
-                        {
-                            "id": "00a11c7a-87b9-4402-898a-e497c42d6d13",
-                            "type": "default",
-                            "extras": {},
-                            "x": 787.2750422720546,
-                            "y": 488.65002594409884,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88",
-                            "links": [
-                                "f89a13f2-8fd5-4f23-9b57-cd41409f9baf"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "4d792116-f54a-43cd-85a4-bc27b76eb60f",
-                            "type": "default",
-                            "extras": {},
-                            "x": 787.2750422720546,
-                            "y": 510.2500556293794,
-                            "name": "parameter-string-token",
-                            "alignment": "left",
-                            "parentNode": "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88",
-                            "links": [
-                                "4499530e-e800-4ee7-982a-4ba98ca0cb86"
-                            ],
-                            "in": true,
-                            "label": "token",
-                            "varName": "token",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "008d06c5-e6b5-4934-825a-25e0306d12b5",
-                            "type": "default",
-                            "extras": {},
-                            "x": 930.137535613674,
-                            "y": 488.65002594409884,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "34b1dbc6-fbe1-4b01-98f1-957f65d7ac88",
-                            "links": [
-                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordDeployBot",
-                    "color": "rgb(255,102,0)",
-                    "portsInOrder": [
-                        "00a11c7a-87b9-4402-898a-e497c42d6d13",
-                        "4d792116-f54a-43cd-85a4-bc27b76eb60f"
-                    ],
-                    "portsOutOrder": [
-                        "008d06c5-e6b5-4934-825a-25e0306d12b5"
-                    ]
-                },
                 "d92ea62e-78c1-44eb-8219-274ef1f0e699": {
                     "id": "d92ea62e-78c1-44eb-8219-274ef1f0e699",
                     "type": "custom-node",
-                    "selected": true,
+                    "selected": false,
                     "extras": {
                         "type": "string",
                         "borderColor": "rgb(0,192,255)"
@@ -1083,7 +590,7 @@
                             "id": "3614e995-9447-4c3b-928f-31e19342bdd4",
                             "type": "default",
                             "extras": {},
-                            "x": 674.2999390671541,
+                            "x": 674.3000084252863,
                             "y": 575.487517066258,
                             "name": "parameter-out-0",
                             "alignment": "right",
@@ -1103,6 +610,498 @@
                     "portsInOrder": [],
                     "portsOutOrder": [
                         "3614e995-9447-4c3b-928f-31e19342bdd4"
+                    ]
+                },
+                "8e6e0f94-b83d-4092-9ec7-baba2d06473e": {
+                    "id": "8e6e0f94-b83d-4092-9ec7-baba2d06473e",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "Finish"
+                    },
+                    "x": 954.44,
+                    "y": 536.763,
+                    "ports": [
+                        {
+                            "id": "0b5eadd0-2526-479e-a680-be053fb017d5",
+                            "type": "default",
+                            "extras": {},
+                            "x": 955.2374806820334,
+                            "y": 563.5625306604518,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "8e6e0f94-b83d-4092-9ec7-baba2d06473e",
+                            "links": [
+                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "cbd55d56-a5c4-4bac-961c-e3e3386c76dc",
+                            "type": "default",
+                            "extras": {},
+                            "x": 955.2374806820334,
+                            "y": 585.1625256666663,
+                            "name": "parameter-dynalist-outputs",
+                            "alignment": "left",
+                            "parentNode": "8e6e0f94-b83d-4092-9ec7-baba2d06473e",
+                            "links": [],
+                            "in": true,
+                            "label": "outputs",
+                            "varName": "outputs",
+                            "portType": "",
+                            "dataType": "dynalist",
+                            "dynaPortOrder": 0,
+                            "dynaPortRef": {
+                                "previous": null,
+                                "next": null
+                            }
+                        }
+                    ],
+                    "name": "Finish",
+                    "color": "rgb(255,102,102)",
+                    "portsInOrder": [
+                        "0b5eadd0-2526-479e-a680-be053fb017d5",
+                        "cbd55d56-a5c4-4bac-961c-e3e3386c76dc"
+                    ],
+                    "portsOutOrder": []
+                },
+                "4bae76e6-973b-4dc5-a5e5-001f151df81d": {
+                    "id": "4bae76e6-973b-4dc5-a5e5-001f151df81d",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Initializes a Discord client with the default intents and enables message content.\n\n##### ctx:\n- discord_client: A Discord client instance with the default intents and message content enabled.",
+                        "lineNo": [
+                            {
+                                "lineno": 9,
+                                "end_lineno": 26
+                            }
+                        ]
+                    },
+                    "x": -87.223,
+                    "y": 112.685,
+                    "ports": [
+                        {
+                            "id": "fc292275-22bf-4c63-9e89-b3ae35ec4521",
+                            "type": "default",
+                            "extras": {},
+                            "x": -86.41252847324006,
+                            "y": 139.47499757662283,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "4bae76e6-973b-4dc5-a5e5-001f151df81d",
+                            "links": [
+                                "7050d17f-1631-4aee-86ab-e1f7051c6617"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "127dc107-8b7f-45fa-b46d-cef6eb44783f",
+                            "type": "default",
+                            "extras": {},
+                            "x": 48.887535613674,
+                            "y": 139.47499757662283,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "4bae76e6-973b-4dc5-a5e5-001f151df81d",
+                            "links": [
+                                "92084b70-0aa5-4921-a9e6-579531ad4d8e"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordClientInit",
+                    "color": "rgb(0,102,204)",
+                    "portsInOrder": [
+                        "fc292275-22bf-4c63-9e89-b3ae35ec4521"
+                    ],
+                    "portsOutOrder": [
+                        "127dc107-8b7f-45fa-b46d-cef6eb44783f"
+                    ]
+                },
+                "1e2d0353-e823-44b2-bb74-c0fd413e482b": {
+                    "id": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Adds a message responder that listens for a specified trigger message and responds with the specified response.\n\n##### inPorts:\n- msg_trigger: The message trigger that the bot listens for.\n- msg_response: The response the bot sends when the trigger is detected.\n\n##### ctx:\n- message_responders: A list of tuples containing message triggers and their corresponding responses.\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
+                        "lineNo": [
+                            {
+                                "lineno": 30,
+                                "end_lineno": 68
+                            }
+                        ]
+                    },
+                    "x": 103.579,
+                    "y": 190.422,
+                    "ports": [
+                        {
+                            "id": "de6da7e1-264e-4855-a48c-9ef9473355f1",
+                            "type": "default",
+                            "extras": {},
+                            "x": 104.37501230934161,
+                            "y": 217.21250236233394,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                            "links": [
+                                "92084b70-0aa5-4921-a9e6-579531ad4d8e"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "c8c4e815-3043-4a05-b95c-14ab003f25a6",
+                            "type": "default",
+                            "extras": {},
+                            "x": 104.37501230934161,
+                            "y": 238.81251470808144,
+                            "name": "parameter-string-msg_trigger",
+                            "alignment": "left",
+                            "parentNode": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                            "links": [
+                                "54738be9-1998-42eb-9c58-d16ebfe0df66"
+                            ],
+                            "in": true,
+                            "label": "★msg_trigger",
+                            "varName": "★msg_trigger",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "773cd2bc-ef4b-4d45-ba27-6d418d6dbb7b",
+                            "type": "default",
+                            "extras": {},
+                            "x": 104.37501230934161,
+                            "y": 260.4124923747629,
+                            "name": "parameter-string-msg_response",
+                            "alignment": "left",
+                            "parentNode": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                            "links": [
+                                "c2ff702a-67c2-4f20-be5e-3abeb1f397dd"
+                            ],
+                            "in": true,
+                            "label": "★msg_response",
+                            "varName": "★msg_response",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "cb1cc96b-e2d3-4031-a162-f6960d89e3de",
+                            "type": "default",
+                            "extras": {},
+                            "x": 297.7250239615078,
+                            "y": 217.21250236233394,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "1e2d0353-e823-44b2-bb74-c0fd413e482b",
+                            "links": [
+                                "cfd474f1-20ff-4394-83f2-0f9a89076f8e"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordMessageResponder",
+                    "color": "rgb(255,153,102)",
+                    "portsInOrder": [
+                        "de6da7e1-264e-4855-a48c-9ef9473355f1",
+                        "c8c4e815-3043-4a05-b95c-14ab003f25a6",
+                        "773cd2bc-ef4b-4d45-ba27-6d418d6dbb7b"
+                    ],
+                    "portsOutOrder": [
+                        "cb1cc96b-e2d3-4031-a162-f6960d89e3de"
+                    ]
+                },
+                "2994ae19-a3f2-4643-9dac-808979acbac4": {
+                    "id": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Adds a message responder that listens for a specified trigger message and responds with the specified response.\n\n##### inPorts:\n- msg_trigger: The message trigger that the bot listens for.\n- msg_response: The response the bot sends when the trigger is detected.\n\n##### ctx:\n- message_responders: A list of tuples containing message triggers and their corresponding responses.\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
+                        "lineNo": [
+                            {
+                                "lineno": 30,
+                                "end_lineno": 68
+                            }
+                        ]
+                    },
+                    "x": 357.215,
+                    "y": 300.353,
+                    "ports": [
+                        {
+                            "id": "ed2a88cb-8ad7-4659-9ee7-7d1f53ccbbe9",
+                            "type": "default",
+                            "extras": {},
+                            "x": 358.0125689055774,
+                            "y": 327.1500141532164,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                            "links": [
+                                "cfd474f1-20ff-4394-83f2-0f9a89076f8e"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "279509f8-2776-4e04-aa12-7ef7909f0089",
+                            "type": "default",
+                            "extras": {},
+                            "x": 358.0125689055774,
+                            "y": 348.7500264989639,
+                            "name": "parameter-string-msg_trigger",
+                            "alignment": "left",
+                            "parentNode": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                            "links": [
+                                "51b25cea-9cb0-4fcc-bd20-f0c9b82de77f"
+                            ],
+                            "in": true,
+                            "label": "★msg_trigger",
+                            "varName": "★msg_trigger",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "6c2d4809-ad88-4f33-a7f9-8eab1e3ae79e",
+                            "type": "default",
+                            "extras": {},
+                            "x": 358.0125689055774,
+                            "y": 370.3500215051784,
+                            "name": "parameter-string-msg_response",
+                            "alignment": "left",
+                            "parentNode": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                            "links": [
+                                "f76af186-01c4-46dc-ada1-cdd17cebe80f"
+                            ],
+                            "in": true,
+                            "label": "★msg_response",
+                            "varName": "★msg_response",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "8c1e82af-999b-4259-8cf0-f76bdb21b2c2",
+                            "type": "default",
+                            "extras": {},
+                            "x": 551.3625111996115,
+                            "y": 327.1500141532164,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "2994ae19-a3f2-4643-9dac-808979acbac4",
+                            "links": [
+                                "4a3e0f16-ddae-40b7-b634-946df61f892b"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordMessageResponder",
+                    "color": "rgb(255,153,102)",
+                    "portsInOrder": [
+                        "ed2a88cb-8ad7-4659-9ee7-7d1f53ccbbe9",
+                        "279509f8-2776-4e04-aa12-7ef7909f0089",
+                        "6c2d4809-ad88-4f33-a7f9-8eab1e3ae79e"
+                    ],
+                    "portsOutOrder": [
+                        "8c1e82af-999b-4259-8cf0-f76bdb21b2c2"
+                    ]
+                },
+                "e89417af-2cd3-4ded-b04c-ea03319f5da8": {
+                    "id": "e89417af-2cd3-4ded-b04c-ea03319f5da8",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Adds a shutdown command for the Discord bot that can be executed by an administrator.\n\n##### inPorts:\n- shutdown_cmd: The command that, when received from an administrator, will shut down the bot.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
+                        "lineNo": [
+                            {
+                                "lineno": 73,
+                                "end_lineno": 97
+                            }
+                        ]
+                    },
+                    "x": 581.143,
+                    "y": 374.348,
+                    "ports": [
+                        {
+                            "id": "e23c008c-932d-46ad-9c56-4524036818ab",
+                            "type": "default",
+                            "extras": {},
+                            "x": 581.9375872161243,
+                            "y": 401.1375068012544,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "e89417af-2cd3-4ded-b04c-ea03319f5da8",
+                            "links": [
+                                "4a3e0f16-ddae-40b7-b634-946df61f892b"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "14b81c97-47fa-42a4-8d41-13d2afe8fc23",
+                            "type": "default",
+                            "extras": {},
+                            "x": 581.9375872161243,
+                            "y": 422.73750180746885,
+                            "name": "parameter-string-shutdown_cmd",
+                            "alignment": "left",
+                            "parentNode": "e89417af-2cd3-4ded-b04c-ea03319f5da8",
+                            "links": [
+                                "b7e21308-8291-4225-acdf-d64025ad9d75"
+                            ],
+                            "in": true,
+                            "label": "★shutdown_cmd",
+                            "varName": "★shutdown_cmd",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "3ee4e509-31e2-4d1a-8d27-b3f45bb722b7",
+                            "type": "default",
+                            "extras": {},
+                            "x": 740.2625050960959,
+                            "y": 401.1375068012544,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "e89417af-2cd3-4ded-b04c-ea03319f5da8",
+                            "links": [
+                                "f89a13f2-8fd5-4f23-9b57-cd41409f9baf"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordShutdownBot",
+                    "color": "rgb(255,102,102)",
+                    "portsInOrder": [
+                        "e23c008c-932d-46ad-9c56-4524036818ab",
+                        "14b81c97-47fa-42a4-8d41-13d2afe8fc23"
+                    ],
+                    "portsOutOrder": [
+                        "3ee4e509-31e2-4d1a-8d27-b3f45bb722b7"
+                    ]
+                },
+                "fc0b902f-c64a-46b8-8767-dc306d8e3d53": {
+                    "id": "fc0b902f-c64a-46b8-8767-dc306d8e3d53",
+                    "type": "custom-node",
+                    "selected": false,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Deploys the Discord bot using the provided token, running either in Xircuits or as a standalone script.\n\n##### inPorts:\n- token: The bot token to be used for authentication. \n    If not provided, will search for 'DISCORD_BOT_TOKEN' from env.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
+                        "lineNo": [
+                            {
+                                "lineno": 101,
+                                "end_lineno": 134
+                            }
+                        ]
+                    },
+                    "x": 786.479,
+                    "y": 461.853,
+                    "ports": [
+                        {
+                            "id": "b28e7c92-5ab1-4c34-b872-3836393fc770",
+                            "type": "default",
+                            "extras": {},
+                            "x": 787.2749729139226,
+                            "y": 488.65002594409884,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "fc0b902f-c64a-46b8-8767-dc306d8e3d53",
+                            "links": [
+                                "f89a13f2-8fd5-4f23-9b57-cd41409f9baf"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "df5c13d4-4c3a-4ffd-9349-56dca8d22515",
+                            "type": "default",
+                            "extras": {},
+                            "x": 787.2749729139226,
+                            "y": 510.2500556293794,
+                            "name": "parameter-string-token",
+                            "alignment": "left",
+                            "parentNode": "fc0b902f-c64a-46b8-8767-dc306d8e3d53",
+                            "links": [
+                                "4499530e-e800-4ee7-982a-4ba98ca0cb86"
+                            ],
+                            "in": true,
+                            "label": "token",
+                            "varName": "token",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "c2767775-061d-42ad-b449-7afc9021df56",
+                            "type": "default",
+                            "extras": {},
+                            "x": 930.1376049718061,
+                            "y": 488.65002594409884,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "fc0b902f-c64a-46b8-8767-dc306d8e3d53",
+                            "links": [
+                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordDeployBot",
+                    "color": "rgb(15,255,255)",
+                    "portsInOrder": [
+                        "b28e7c92-5ab1-4c34-b872-3836393fc770",
+                        "df5c13d4-4c3a-4ffd-9349-56dca8d22515"
+                    ],
+                    "portsOutOrder": [
+                        "c2767775-061d-42ad-b449-7afc9021df56"
                     ]
                 }
             }

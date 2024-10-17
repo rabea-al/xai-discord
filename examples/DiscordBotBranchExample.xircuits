@@ -6,7 +6,7 @@
     "gridSize": 0,
     "layers": [
         {
-            "id": "2b78ef71-397c-4d43-a8f5-46b9aa43a572",
+            "id": "1e1a277b-9c02-452a-b5b3-a97d7bae245f",
             "type": "diagram-links",
             "isSvg": true,
             "transformed": true,
@@ -17,8 +17,8 @@
                     "selected": false,
                     "source": "f2e8590e-a852-4f38-beab-2f9195005df7",
                     "sourcePort": "bf8a4e2a-acf6-4402-ae31-00832051219c",
-                    "target": "983ebe8b-9b83-4f25-80bb-368df97fe0a4",
-                    "targetPort": "ad34bbe2-a04d-4377-a67d-b5ec01fbc3a4",
+                    "target": "ebe02041-be1a-4619-b705-fc37df8c4466",
+                    "targetPort": "7d7d27ca-1680-43a0-b256-711b39d534cb",
                     "points": [
                         {
                             "id": "915c1ef5-8f06-40e7-933c-2a4c473fdbb8",
@@ -43,21 +43,21 @@
                     "id": "ddf0437d-56ef-4b20-bda6-6142f72ecca0",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "88be8ec4-6046-4433-b879-90ea5b3c5fb5",
-                    "sourcePort": "b743baf4-90a4-4e8c-9ecc-695246b69380",
-                    "target": "0539cc6b-d935-4a58-a266-f9604f0e8d7c",
-                    "targetPort": "49c46c6f-106f-499f-b01c-3f99215ba8a9",
+                    "source": "81b7ff64-a91a-4167-9d54-52e913dcc2d7",
+                    "sourcePort": "f688616e-7b4e-4b7a-8ba5-aec650245ca0",
+                    "target": "00d9c24d-b843-4f9b-886a-7c8591e99e8b",
+                    "targetPort": "be38662e-06f1-4355-bb6b-e21bec7bac08",
                     "points": [
                         {
                             "id": "ea04db10-cce9-4c77-81e8-e7ec008835d0",
                             "type": "point",
-                            "x": 1026.3751656540862,
+                            "x": 1026.3750888803047,
                             "y": 49.874997019856906
                         },
                         {
                             "id": "81d3895d-c4f5-4d7d-8ea5-68d2d4df0669",
                             "type": "point",
-                            "x": 1114.9375612417434,
+                            "x": 1114.937484467962,
                             "y": 41.162497173404475
                         }
                     ],
@@ -73,8 +73,8 @@
                     "selected": false,
                     "source": "9767a54c-dbc9-4387-8908-f18259b4c4a2",
                     "sourcePort": "b8330c27-4e5b-4d74-878c-5aea434f62e0",
-                    "target": "078f8d3b-45c2-4620-b950-b122af746541",
-                    "targetPort": "90dd4db0-cd8d-4474-9de6-f9807fe3c189",
+                    "target": "3208834e-223b-47e4-8aa5-bbc81bf0296a",
+                    "targetPort": "bbd85b37-8966-4cb9-924b-a75f0d023350",
                     "points": [
                         {
                             "id": "a9dab119-5ba8-410e-aa03-1f7f10f2ccfc",
@@ -99,21 +99,21 @@
                     "id": "0899539d-fbec-4f8b-89bc-746d4137fbd1",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "078f8d3b-45c2-4620-b950-b122af746541",
-                    "sourcePort": "a986619b-ae03-4c93-86d7-7876878d62b4",
-                    "target": "88be8ec4-6046-4433-b879-90ea5b3c5fb5",
-                    "targetPort": "12fdd800-9ddb-4dec-8575-296eabe2538d",
+                    "source": "3208834e-223b-47e4-8aa5-bbc81bf0296a",
+                    "sourcePort": "43b7070a-7e86-47bc-82a8-03168e3c9ae7",
+                    "target": "81b7ff64-a91a-4167-9d54-52e913dcc2d7",
+                    "targetPort": "7effddbc-3409-42a0-b5c7-4525fc926478",
                     "points": [
                         {
                             "id": "9bffc1c3-61d3-4397-88c8-a6df17660d03",
                             "type": "point",
-                            "x": 756.0749494591178,
+                            "x": 756.0625888803048,
                             "y": 45.2749999372606
                         },
                         {
                             "id": "cb479acf-cef2-4094-8adf-8aa5387823bb",
                             "type": "point",
-                            "x": 883.5126093885012,
+                            "x": 883.5125326147199,
                             "y": 49.874997019856906
                         }
                     ],
@@ -127,10 +127,10 @@
                     "id": "472ff44c-81ab-4b52-8327-6f94d3db8b8e",
                     "type": "parameter-link",
                     "selected": false,
-                    "source": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                    "sourcePort": "373152c3-5cdf-4b1c-a661-81c38a4e43b0",
-                    "target": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                    "targetPort": "3aca4918-c6bf-41bd-b1aa-aa651408642f",
+                    "source": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                    "sourcePort": "87cc924c-6614-4616-aae0-615f518049cc",
+                    "target": "89c846a2-242f-4d66-911e-ea208c83706f",
+                    "targetPort": "1ce40a55-44ab-4a14-9640-5b6756aa40d0",
                     "points": [
                         {
                             "id": "77ee08ea-be87-4ce3-b6b3-30e61c78bd3f",
@@ -155,10 +155,10 @@
                     "id": "adb87cb4-512f-405a-8613-b7122802e6d6",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                    "sourcePort": "10230ed4-55b4-4e1c-9a3a-76e2799b9e17",
-                    "target": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                    "targetPort": "320c7ad7-cac1-49c1-a49a-8e39f9a7b2a3",
+                    "source": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                    "sourcePort": "bbc3363c-377a-4055-95a6-678a6727f1fe",
+                    "target": "89c846a2-242f-4d66-911e-ea208c83706f",
+                    "targetPort": "a132a3ea-6d55-471a-9fbf-0a8267fe3353",
                     "points": [
                         {
                             "id": "0f90672c-a8f3-4b5a-a0dd-4a004c82f460",
@@ -183,21 +183,21 @@
                     "id": "fb5cc811-7ef0-4d62-bcbe-c9b94c7d824d",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "983ebe8b-9b83-4f25-80bb-368df97fe0a4",
-                    "sourcePort": "cfb01398-d05c-4794-917e-804cfbb356bb",
-                    "target": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                    "targetPort": "7fc3da90-a783-439b-9eed-88a28e27861c",
+                    "source": "ebe02041-be1a-4619-b705-fc37df8c4466",
+                    "sourcePort": "8ae37e59-11f0-4789-a444-0f44f823c077",
+                    "target": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                    "targetPort": "d4d9e142-32e4-402d-8016-d494554d2511",
                     "points": [
                         {
                             "id": "fd28185b-ad23-421f-aa3d-46f9a51d8f6b",
                             "type": "point",
-                            "x": 59.18752770119781,
+                            "x": 59.18750490898144,
                             "y": 149.7749991695228
                         },
                         {
                             "id": "da38e7e1-9fca-41da-acaf-1b27dc7f479a",
                             "type": "point",
-                            "x": 107.43757731625406,
+                            "x": 107.43753892936334,
                             "y": 151.9000206661816
                         }
                     ],
@@ -211,15 +211,15 @@
                     "id": "395192a1-4a8c-4ee9-83e4-063508951d1d",
                     "type": "parameter-link",
                     "selected": false,
-                    "source": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                    "sourcePort": "6f2065a5-8654-4515-9572-332e4e05da47",
-                    "target": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                    "targetPort": "d7b8dec8-141d-466a-a2fd-8c8af7559e06",
+                    "source": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                    "sourcePort": "8096cb09-76da-440c-a822-d250de43a5b6",
+                    "target": "89c846a2-242f-4d66-911e-ea208c83706f",
+                    "targetPort": "e1cd6ca0-b3f3-4e36-b7b6-c4b398bb45c9",
                     "points": [
                         {
                             "id": "7b09ccd1-a99f-4fe0-8764-1745c468fb60",
                             "type": "point",
-                            "x": 287.9125148032025,
+                            "x": 288.2750717885418,
                             "y": 195.10001329589858
                         },
                         {
@@ -251,15 +251,15 @@
                     "id": "89dd19d2-4c87-4707-a641-33e88b88cfa4",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                    "sourcePort": "720a1a10-b13c-4591-a7a6-1b9a4f804597",
-                    "target": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                    "targetPort": "886e3ab5-20e7-4b5d-bf78-a01fd0167f28",
+                    "source": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                    "sourcePort": "5007b201-a028-44f6-9895-e24dac36d034",
+                    "target": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                    "targetPort": "5f40efff-c2cb-49b1-96ef-d489805517ed",
                     "points": [
                         {
                             "id": "0dd121b5-34d4-40ae-a3f0-5790c18de432",
                             "type": "point",
-                            "x": 287.9125148032025,
+                            "x": 288.2750717885418,
                             "y": 173.50001698104006
                         },
                         {
@@ -279,15 +279,15 @@
                     "id": "0c836c00-49c8-4df4-a4f6-874b0ae69973",
                     "type": "triangle-link",
                     "selected": false,
-                    "source": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                    "sourcePort": "f671f950-3d88-46cb-9f4b-d13084bd2338",
-                    "target": "078f8d3b-45c2-4620-b950-b122af746541",
-                    "targetPort": "979951ca-95c3-44c9-aa6b-836871fe7357",
+                    "source": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                    "sourcePort": "c4e027fb-dcf4-44f8-b528-5b05a736a933",
+                    "target": "3208834e-223b-47e4-8aa5-bbc81bf0296a",
+                    "targetPort": "309479b4-8070-455b-b988-5ab510b88b21",
                     "points": [
                         {
                             "id": "6ac54149-3ede-47b0-8df7-91af8e181c1d",
                             "type": "point",
-                            "x": 287.9125148032025,
+                            "x": 288.2750717885418,
                             "y": 151.9000206661816
                         },
                         {
@@ -309,8 +309,8 @@
                     "selected": false,
                     "source": "8064b37e-a953-406e-9e70-6cda15cafb74",
                     "sourcePort": "cf2e2fe3-4c6e-45c1-8f12-b6446e368d42",
-                    "target": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                    "targetPort": "7754af04-9cab-4a77-9137-a8b5a5a4e553",
+                    "target": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                    "targetPort": "16156cce-fa8a-4371-9d95-89bff4878756",
                     "points": [
                         {
                             "id": "4a1c9de0-e9b8-45a2-af14-4ab0d7d920e1",
@@ -335,15 +335,15 @@
                     "id": "bda6826a-0cca-473d-9079-2ba53653d8c2",
                     "type": "parameter-link",
                     "selected": false,
-                    "source": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                    "sourcePort": "215f383b-d1ee-4290-b02f-1492ff688db5",
-                    "target": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                    "targetPort": "a92bbea2-9c0f-40eb-9ca5-d7f912debcd7",
+                    "source": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                    "sourcePort": "9dd839d3-e841-4d50-afa1-20198cb318fd",
+                    "target": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                    "targetPort": "cf178afa-3f39-47c0-85f8-2516925ca1a1",
                     "points": [
                         {
                             "id": "05bed03c-379d-478f-9127-05b2f1526b68",
                             "type": "point",
-                            "x": 287.9125148032025,
+                            "x": 288.2750717885418,
                             "y": 216.70000961075704
                         },
                         {
@@ -365,8 +365,8 @@
                     "selected": false,
                     "source": "9a980c57-ca09-4618-a7c4-a502b3ae43f8",
                     "sourcePort": "6e3e31bf-0d64-4036-a499-fc48e660af5b",
-                    "target": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                    "targetPort": "67f862aa-a555-4de3-95d3-a2cf73ccba27",
+                    "target": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                    "targetPort": "5dcb215d-7aa5-4fd9-8d42-06659db5020b",
                     "points": [
                         {
                             "id": "befe0ec8-701b-448d-9a35-a53a081c5db9",
@@ -377,7 +377,7 @@
                         {
                             "id": "71b2fd49-4c71-492d-9951-d55bef05ad2b",
                             "type": "point",
-                            "x": 107.43757731625406,
+                            "x": 107.43753892936334,
                             "y": 173.50001698104006
                         }
                     ],
@@ -393,8 +393,8 @@
                     "selected": false,
                     "source": "d1ec6c1b-cfb4-451c-89bc-2da4bde50e23",
                     "sourcePort": "26620666-1b8b-43bc-8e1b-a8c5e06d44de",
-                    "target": "88be8ec4-6046-4433-b879-90ea5b3c5fb5",
-                    "targetPort": "5d84a49d-7f1d-4bb9-981b-950ae92de86c",
+                    "target": "81b7ff64-a91a-4167-9d54-52e913dcc2d7",
+                    "targetPort": "ffb47cd7-4a08-412e-b3a8-30b19a548775",
                     "points": [
                         {
                             "id": "f41158d2-4f9f-43d1-b33a-46f31ceca020",
@@ -405,7 +405,7 @@
                         {
                             "id": "b1695be1-067d-4138-bd3e-94b35d9131fa",
                             "type": "point",
-                            "x": 883.5126093885012,
+                            "x": 883.5125326147199,
                             "y": 71.47499333471539
                         }
                     ],
@@ -418,7 +418,7 @@
             }
         },
         {
-            "id": "684e7aa0-32db-4040-9a12-3b165c5e8175",
+            "id": "88c5d5e5-428c-44dc-b65d-80295609ff05",
             "type": "diagram-nodes",
             "isSvg": false,
             "transformed": true,
@@ -474,7 +474,7 @@
                             "id": "b8330c27-4e5b-4d74-878c-5aea434f62e0",
                             "type": "default",
                             "extras": {},
-                            "x": 538.9501124594525,
+                            "x": 538.9500356856711,
                             "y": 125.16252202891621,
                             "name": "out-0",
                             "alignment": "right",
@@ -499,7 +499,7 @@
                 "22b80dc4-7cb3-4306-8920-03c43d41360e": {
                     "id": "22b80dc4-7cb3-4306-8920-03c43d41360e",
                     "type": "custom-node",
-                    "selected": false,
+                    "selected": true,
                     "extras": {
                         "type": "comment",
                         "commentInput": "You can insert any components between the branch and post!\n",
@@ -517,7 +517,7 @@
                 "720472d0-8169-44ec-87f6-e5c5a024b6a9": {
                     "id": "720472d0-8169-44ec-87f6-e5c5a024b6a9",
                     "type": "custom-node",
-                    "selected": false,
+                    "selected": true,
                     "extras": {
                         "type": "comment",
                         "commentInput": "When bot detects the msg_trigger string,\nit will execute the on_message flow.",
@@ -546,7 +546,7 @@
                             "id": "cf2e2fe3-4c6e-45c1-8f12-b6446e368d42",
                             "type": "default",
                             "extras": {},
-                            "x": 516.250101404028,
+                            "x": 516.2500246302466,
                             "y": 307.3875490532873,
                             "name": "out-0",
                             "alignment": "right",
@@ -583,7 +583,7 @@
                             "id": "6e3e31bf-0d64-4036-a499-fc48e660af5b",
                             "type": "default",
                             "extras": {},
-                            "x": 22.4750347643857,
+                            "x": 22.474996377494975,
                             "y": 212.70002602115284,
                             "name": "out-0",
                             "alignment": "right",
@@ -605,677 +605,10 @@
                         "6e3e31bf-0d64-4036-a499-fc48e660af5b"
                     ]
                 },
-                "0539cc6b-d935-4a58-a266-f9604f0e8d7c": {
-                    "id": "0539cc6b-d935-4a58-a266-f9604f0e8d7c",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "Finish"
-                    },
-                    "x": 1103.847,
-                    "y": 4.069,
-                    "ports": [
-                        {
-                            "id": "49c46c6f-106f-499f-b01c-3f99215ba8a9",
-                            "type": "default",
-                            "extras": {},
-                            "x": 1104.6375295437686,
-                            "y": 30.862495465187838,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "0539cc6b-d935-4a58-a266-f9604f0e8d7c",
-                            "links": [
-                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "0a5fc6f1-fb6d-4add-a654-0ef5fde238e7",
-                            "type": "default",
-                            "extras": {},
-                            "x": 1104.6375295437686,
-                            "y": 52.46253016693705,
-                            "name": "parameter-dynalist-outputs",
-                            "alignment": "left",
-                            "parentNode": "0539cc6b-d935-4a58-a266-f9604f0e8d7c",
-                            "links": [],
-                            "in": true,
-                            "label": "outputs",
-                            "varName": "outputs",
-                            "portType": "",
-                            "dataType": "dynalist",
-                            "dynaPortOrder": 0,
-                            "dynaPortRef": {
-                                "previous": null,
-                                "next": null
-                            }
-                        }
-                    ],
-                    "name": "Finish",
-                    "color": "rgb(255,102,102)",
-                    "portsInOrder": [
-                        "49c46c6f-106f-499f-b01c-3f99215ba8a9",
-                        "0a5fc6f1-fb6d-4add-a654-0ef5fde238e7"
-                    ],
-                    "portsOutOrder": []
-                },
-                "983ebe8b-9b83-4f25-80bb-368df97fe0a4": {
-                    "id": "983ebe8b-9b83-4f25-80bb-368df97fe0a4",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Initializes a Discord client with the default intents and enables message content.\n\n##### ctx:\n- discord_client: A Discord client instance with the default intents and message content enabled.",
-                        "lineNo": [
-                            {
-                                "lineno": 9,
-                                "end_lineno": 26
-                            }
-                        ]
-                    },
-                    "x": -87.223,
-                    "y": 112.685,
-                    "ports": [
-                        {
-                            "id": "ad34bbe2-a04d-4377-a67d-b5ec01fbc3a4",
-                            "type": "default",
-                            "extras": {},
-                            "x": -86.41249011031948,
-                            "y": 139.47499746130615,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "983ebe8b-9b83-4f25-80bb-368df97fe0a4",
-                            "links": [
-                                "7050d17f-1631-4aee-86ab-e1f7051c6617"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "cfb01398-d05c-4794-917e-804cfbb356bb",
-                            "type": "default",
-                            "extras": {},
-                            "x": 48.88755718232988,
-                            "y": 139.47499746130615,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "983ebe8b-9b83-4f25-80bb-368df97fe0a4",
-                            "links": [
-                                "fb5cc811-7ef0-4d62-bcbe-c9b94c7d824d"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordClientInit",
-                    "color": "rgb(102,51,102)",
-                    "portsInOrder": [
-                        "ad34bbe2-a04d-4377-a67d-b5ec01fbc3a4"
-                    ],
-                    "portsOutOrder": [
-                        "cfb01398-d05c-4794-917e-804cfbb356bb"
-                    ]
-                },
-                "88be8ec4-6046-4433-b879-90ea5b3c5fb5": {
-                    "id": "88be8ec4-6046-4433-b879-90ea5b3c5fb5",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Deploys the Discord bot using the provided token, running either in Xircuits or as a standalone script.\n\n##### inPorts:\n- token: The bot token to be used for authentication. \n    If not provided, will search for 'DISCORD_BOT_TOKEN' from env.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
-                        "lineNo": [
-                            {
-                                "lineno": 101,
-                                "end_lineno": 134
-                            }
-                        ],
-                        "borderColor": "rgb(0,192,255)"
-                    },
-                    "x": 872.414,
-                    "y": 12.78,
-                    "ports": [
-                        {
-                            "id": "12fdd800-9ddb-4dec-8575-296eabe2538d",
-                            "type": "default",
-                            "extras": {},
-                            "x": 873.2126388696333,
-                            "y": 39.57499531164027,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "88be8ec4-6046-4433-b879-90ea5b3c5fb5",
-                            "links": [
-                                "0899539d-fbec-4f8b-89bc-746d4137fbd1"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "5d84a49d-7f1d-4bb9-981b-950ae92de86c",
-                            "type": "default",
-                            "extras": {},
-                            "x": 873.2126388696333,
-                            "y": 61.17499162649876,
-                            "name": "parameter-string-token",
-                            "alignment": "left",
-                            "parentNode": "88be8ec4-6046-4433-b879-90ea5b3c5fb5",
-                            "links": [
-                                "56c3de2e-e2b2-45cd-8bd7-45070b54000d"
-                            ],
-                            "in": true,
-                            "label": "token",
-                            "varName": "token",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "b743baf4-90a4-4e8c-9ecc-695246b69380",
-                            "type": "default",
-                            "extras": {},
-                            "x": 1016.0751339561114,
-                            "y": 39.57499531164027,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "88be8ec4-6046-4433-b879-90ea5b3c5fb5",
-                            "links": [
-                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordDeployBot",
-                    "color": "rgb(255,102,0)",
-                    "portsInOrder": [
-                        "12fdd800-9ddb-4dec-8575-296eabe2538d",
-                        "5d84a49d-7f1d-4bb9-981b-950ae92de86c"
-                    ],
-                    "portsOutOrder": [
-                        "b743baf4-90a4-4e8c-9ecc-695246b69380"
-                    ]
-                },
-                "078f8d3b-45c2-4620-b950-b122af746541": {
-                    "id": "078f8d3b-45c2-4620-b950-b122af746541",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Adds a shutdown command for the Discord bot that can be executed by an administrator.\n\n##### inPorts:\n- shutdown_cmd: The command that, when received from an administrator, will shut down the bot.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
-                        "lineNo": [
-                            {
-                                "lineno": 73,
-                                "end_lineno": 97
-                            }
-                        ]
-                    },
-                    "x": 586.647,
-                    "y": 8.185,
-                    "ports": [
-                        {
-                            "id": "979951ca-95c3-44c9-aa6b-836871fe7357",
-                            "type": "default",
-                            "extras": {},
-                            "x": 587.4375921911742,
-                            "y": 34.97499822904397,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "078f8d3b-45c2-4620-b950-b122af746541",
-                            "links": [
-                                "0c836c00-49c8-4df4-a4f6-874b0ae69973"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "90dd4db0-cd8d-4474-9de6-f9807fe3c189",
-                            "type": "default",
-                            "extras": {},
-                            "x": 587.4375921911742,
-                            "y": 56.57501373734782,
-                            "name": "parameter-string-shutdown_cmd",
-                            "alignment": "left",
-                            "parentNode": "078f8d3b-45c2-4620-b950-b122af746541",
-                            "links": [
-                                "458ae3b9-49a9-42fd-acf7-05f32d965647"
-                            ],
-                            "in": true,
-                            "label": "★shutdown_cmd",
-                            "varName": "★shutdown_cmd",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "a986619b-ae03-4c93-86d7-7876878d62b4",
-                            "type": "default",
-                            "extras": {},
-                            "x": 745.7749177611428,
-                            "y": 34.97499822904397,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "078f8d3b-45c2-4620-b950-b122af746541",
-                            "links": [
-                                "0899539d-fbec-4f8b-89bc-746d4137fbd1"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordShutdownBot",
-                    "color": "rgb(102,102,102)",
-                    "portsInOrder": [
-                        "979951ca-95c3-44c9-aa6b-836871fe7357",
-                        "90dd4db0-cd8d-4474-9de6-f9807fe3c189"
-                    ],
-                    "portsOutOrder": [
-                        "a986619b-ae03-4c93-86d7-7876878d62b4"
-                    ]
-                },
-                "ea17058f-65aa-4beb-b184-f5c02e6e98a3": {
-                    "id": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_utils/utils.py",
-                        "description": "Concatenates two strings.\n\n##### inPorts:\n- a (str): The first string.\n- b (str): The second string.\n\n##### outPorts:\n- out (str): The concatenated result of strings a and b.",
-                        "lineNo": [
-                            {
-                                "lineno": 78,
-                                "end_lineno": 93
-                            }
-                        ]
-                    },
-                    "x": 573.609,
-                    "y": 176.183,
-                    "ports": [
-                        {
-                            "id": "886e3ab5-20e7-4b5d-bf78-a01fd0167f28",
-                            "type": "default",
-                            "extras": {},
-                            "x": 574.4000221734856,
-                            "y": 202.97501435153805,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                            "links": [
-                                "89dd19d2-4c87-4707-a641-33e88b88cfa4"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "7754af04-9cab-4a77-9137-a8b5a5a4e553",
-                            "type": "default",
-                            "extras": {},
-                            "x": 574.4000221734856,
-                            "y": 224.57504905328727,
-                            "name": "parameter-string-a",
-                            "alignment": "left",
-                            "parentNode": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                            "links": [
-                                "4d17155e-424c-4293-8dd3-66d0ab7889c0"
-                            ],
-                            "in": true,
-                            "label": "a",
-                            "varName": "a",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "a92bbea2-9c0f-40eb-9ca5-d7f912debcd7",
-                            "type": "default",
-                            "extras": {},
-                            "x": 574.4000221734856,
-                            "y": 246.17500698125505,
-                            "name": "parameter-string-b",
-                            "alignment": "left",
-                            "parentNode": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                            "links": [
-                                "bda6826a-0cca-473d-9079-2ba53653d8c2"
-                            ],
-                            "in": true,
-                            "label": "b",
-                            "varName": "b",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "10230ed4-55b4-4e1c-9a3a-76e2799b9e17",
-                            "type": "default",
-                            "extras": {},
-                            "x": 691.1999681247434,
-                            "y": 202.97501435153805,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                            "links": [
-                                "adb87cb4-512f-405a-8613-b7122802e6d6"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "373152c3-5cdf-4b1c-a661-81c38a4e43b0",
-                            "type": "default",
-                            "extras": {},
-                            "x": 691.1999681247434,
-                            "y": 224.57504905328727,
-                            "name": "parameter-out-string-out",
-                            "alignment": "right",
-                            "parentNode": "ea17058f-65aa-4beb-b184-f5c02e6e98a3",
-                            "links": [
-                                "472ff44c-81ab-4b52-8327-6f94d3db8b8e"
-                            ],
-                            "in": false,
-                            "label": "out",
-                            "varName": "out",
-                            "portType": "",
-                            "dataType": "string"
-                        }
-                    ],
-                    "name": "ConcatString",
-                    "color": "rgb(255,153,0)",
-                    "portsInOrder": [
-                        "886e3ab5-20e7-4b5d-bf78-a01fd0167f28",
-                        "7754af04-9cab-4a77-9137-a8b5a5a4e553",
-                        "a92bbea2-9c0f-40eb-9ca5-d7f912debcd7"
-                    ],
-                    "portsOutOrder": [
-                        "10230ed4-55b4-4e1c-9a3a-76e2799b9e17",
-                        "373152c3-5cdf-4b1c-a661-81c38a4e43b0"
-                    ]
-                },
-                "a93914c6-a1a0-4091-b02c-7ef32b35b60b": {
-                    "id": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "Sends a message with an optional attachment to the same channel as the received Discord message.\nIt uses the provided message as the response and references the original message in the reply.\n\n##### inPorts:\n- msg_response: The response message to be sent.\n- discord_msg (str): The original Discord message that the bot is replying to.\n- attachment_path (str): The local path to the file to be sent as an attachment. Defaults to None.",
-                        "lineNo": [
-                            {
-                                "lineno": 194,
-                                "end_lineno": 218
-                            }
-                        ]
-                    },
-                    "x": 767.99,
-                    "y": 308.933,
-                    "ports": [
-                        {
-                            "id": "320c7ad7-cac1-49c1-a49a-8e39f9a7b2a3",
-                            "type": "default",
-                            "extras": {},
-                            "x": 768.7875516546176,
-                            "y": 335.7250588803313,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                            "links": [
-                                "adb87cb4-512f-405a-8613-b7122802e6d6"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "3aca4918-c6bf-41bd-b1aa-aa651408642f",
-                            "type": "default",
-                            "extras": {},
-                            "x": 768.7875516546176,
-                            "y": 357.32501680829904,
-                            "name": "parameter-string-msg_response",
-                            "alignment": "left",
-                            "parentNode": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                            "links": [
-                                "472ff44c-81ab-4b52-8327-6f94d3db8b8e"
-                            ],
-                            "in": true,
-                            "label": "★msg_response",
-                            "varName": "★msg_response",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "d7b8dec8-141d-466a-a2fd-8c8af7559e06",
-                            "type": "default",
-                            "extras": {},
-                            "x": 768.7875516546176,
-                            "y": 378.92505151004826,
-                            "name": "parameter-discord.message.Message-discord_msg",
-                            "alignment": "left",
-                            "parentNode": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                            "links": [
-                                "395192a1-4a8c-4ee9-83e4-063508951d1d"
-                            ],
-                            "in": true,
-                            "label": "★discord_msg",
-                            "varName": "★discord_msg",
-                            "portType": "",
-                            "dataType": "discord.message.Message"
-                        },
-                        {
-                            "id": "3d806f04-a497-4a58-bb87-338b9541d137",
-                            "type": "default",
-                            "extras": {},
-                            "x": 768.7875516546176,
-                            "y": 400.525009438016,
-                            "name": "parameter-string-attachment_path",
-                            "alignment": "left",
-                            "parentNode": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                            "links": [],
-                            "in": true,
-                            "label": "attachment_path",
-                            "varName": "attachment_path",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "ac6e5290-6786-4383-97ad-e29ad139acad",
-                            "type": "default",
-                            "extras": {},
-                            "x": 928.3375958763157,
-                            "y": 335.7250588803313,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "a93914c6-a1a0-4091-b02c-7ef32b35b60b",
-                            "links": [],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        }
-                    ],
-                    "name": "DiscordPostMessage",
-                    "color": "rgb(0,102,204)",
-                    "portsInOrder": [
-                        "320c7ad7-cac1-49c1-a49a-8e39f9a7b2a3",
-                        "3aca4918-c6bf-41bd-b1aa-aa651408642f",
-                        "d7b8dec8-141d-466a-a2fd-8c8af7559e06",
-                        "3d806f04-a497-4a58-bb87-338b9541d137"
-                    ],
-                    "portsOutOrder": [
-                        "ac6e5290-6786-4383-97ad-e29ad139acad"
-                    ]
-                },
-                "55c8960d-24f7-41d0-abee-213c69eb3092": {
-                    "id": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                    "type": "custom-node",
-                    "selected": false,
-                    "extras": {
-                        "type": "library_component",
-                        "path": "xai_components/xai_discord/discord_components.py",
-                        "description": "This component listens for a specified message trigger and, when detected, \nexecutes the provided on_message component, passing the received message as input.\n\n##### inPorts:\n- on_message: A BaseComponent to be executed when the message trigger is detected.\n- msg_trigger (str): The message trigger that the bot listens for.\n\n##### outPorts:\n- discord_msg: The received message that triggered the on_message component.\n- str_msg (str): The received message content as a string with the msg_trigger removed.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
-                        "lineNo": [
-                            {
-                                "lineno": 137,
-                                "end_lineno": 170
-                            }
-                        ]
-                    },
-                    "x": 96.343,
-                    "y": 114.81,
-                    "ports": [
-                        {
-                            "id": "7fc3da90-a783-439b-9eed-88a28e27861c",
-                            "type": "default",
-                            "extras": {},
-                            "x": 97.13757560803742,
-                            "y": 141.60001895796495,
-                            "name": "in-0",
-                            "alignment": "left",
-                            "parentNode": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                            "links": [
-                                "fb5cc811-7ef0-4d62-bcbe-c9b94c7d824d"
-                            ],
-                            "in": true,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "67f862aa-a555-4de3-95d3-a2cf73ccba27",
-                            "type": "default",
-                            "extras": {},
-                            "x": 97.13757560803742,
-                            "y": 163.20001527282344,
-                            "name": "parameter-string-msg_trigger",
-                            "alignment": "left",
-                            "parentNode": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                            "links": [
-                                "6edb84ef-1512-40af-9ec8-67e104f0736b"
-                            ],
-                            "in": true,
-                            "label": "★msg_trigger",
-                            "varName": "★msg_trigger",
-                            "portType": "",
-                            "dataType": "string"
-                        },
-                        {
-                            "id": "f671f950-3d88-46cb-9f4b-d13084bd2338",
-                            "type": "default",
-                            "extras": {},
-                            "x": 277.6125442843346,
-                            "y": 141.60001895796495,
-                            "name": "out-0",
-                            "alignment": "right",
-                            "parentNode": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                            "links": [
-                                "0c836c00-49c8-4df4-a4f6-874b0ae69973"
-                            ],
-                            "in": false,
-                            "label": "▶",
-                            "varName": "▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "720a1a10-b13c-4591-a7a6-1b9a4f804597",
-                            "type": "default",
-                            "extras": {},
-                            "x": 277.6125442843346,
-                            "y": 163.20001527282344,
-                            "name": "out-flow-on_message",
-                            "alignment": "right",
-                            "parentNode": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                            "links": [
-                                "89dd19d2-4c87-4707-a641-33e88b88cfa4"
-                            ],
-                            "in": false,
-                            "label": "on_message ▶",
-                            "varName": "on_message ▶",
-                            "portType": "",
-                            "dataType": ""
-                        },
-                        {
-                            "id": "6f2065a5-8654-4515-9572-332e4e05da47",
-                            "type": "default",
-                            "extras": {},
-                            "x": 277.6125442843346,
-                            "y": 184.80001158768192,
-                            "name": "parameter-out-discord.message.Message-discord_msg",
-                            "alignment": "right",
-                            "parentNode": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                            "links": [
-                                "395192a1-4a8c-4ee9-83e4-063508951d1d"
-                            ],
-                            "in": false,
-                            "label": "discord_msg",
-                            "varName": "discord_msg",
-                            "portType": "",
-                            "dataType": "discord.message.Message"
-                        },
-                        {
-                            "id": "215f383b-d1ee-4290-b02f-1492ff688db5",
-                            "type": "default",
-                            "extras": {},
-                            "x": 277.6125442843346,
-                            "y": 206.4000079025404,
-                            "name": "parameter-out-string-str_msg",
-                            "alignment": "right",
-                            "parentNode": "55c8960d-24f7-41d0-abee-213c69eb3092",
-                            "links": [
-                                "bda6826a-0cca-473d-9079-2ba53653d8c2"
-                            ],
-                            "in": false,
-                            "label": "str_msg",
-                            "varName": "str_msg",
-                            "portType": "",
-                            "dataType": "string"
-                        }
-                    ],
-                    "name": "DiscordTriggerBranch",
-                    "color": "rgb(51,51,51)",
-                    "portsInOrder": [
-                        "7fc3da90-a783-439b-9eed-88a28e27861c",
-                        "67f862aa-a555-4de3-95d3-a2cf73ccba27"
-                    ],
-                    "portsOutOrder": [
-                        "f671f950-3d88-46cb-9f4b-d13084bd2338",
-                        "720a1a10-b13c-4591-a7a6-1b9a4f804597",
-                        "6f2065a5-8654-4515-9572-332e4e05da47",
-                        "215f383b-d1ee-4290-b02f-1492ff688db5"
-                    ]
-                },
                 "d1ec6c1b-cfb4-451c-89bc-2da4bde50e23": {
                     "id": "d1ec6c1b-cfb4-451c-89bc-2da4bde50e23",
                     "type": "custom-node",
-                    "selected": true,
+                    "selected": false,
                     "extras": {
                         "type": "string",
                         "borderColor": "rgb(0,192,255)"
@@ -1287,8 +620,8 @@
                             "id": "26620666-1b8b-43bc-8e1b-a8c5e06d44de",
                             "type": "default",
                             "extras": {},
-                            "x": 809.2459525488782,
-                            "y": 131.25325481930537,
+                            "x": 809.2500215592953,
+                            "y": 131.2499919335939,
                             "name": "parameter-out-0",
                             "alignment": "right",
                             "parentNode": "d1ec6c1b-cfb4-451c-89bc-2da4bde50e23",
@@ -1307,6 +640,672 @@
                     "portsInOrder": [],
                     "portsOutOrder": [
                         "26620666-1b8b-43bc-8e1b-a8c5e06d44de"
+                    ]
+                },
+                "00d9c24d-b843-4f9b-886a-7c8591e99e8b": {
+                    "id": "00d9c24d-b843-4f9b-886a-7c8591e99e8b",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "Finish"
+                    },
+                    "x": 1103.847,
+                    "y": 4.069,
+                    "ports": [
+                        {
+                            "id": "be38662e-06f1-4355-bb6b-e21bec7bac08",
+                            "type": "default",
+                            "extras": {},
+                            "x": 1104.637452769987,
+                            "y": 30.862495465187838,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "00d9c24d-b843-4f9b-886a-7c8591e99e8b",
+                            "links": [
+                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "d1bf4939-4ba0-408e-b551-43fc43c25aae",
+                            "type": "default",
+                            "extras": {},
+                            "x": 1104.637452769987,
+                            "y": 52.46253016693705,
+                            "name": "parameter-dynalist-outputs",
+                            "alignment": "left",
+                            "parentNode": "00d9c24d-b843-4f9b-886a-7c8591e99e8b",
+                            "links": [],
+                            "in": true,
+                            "label": "outputs",
+                            "varName": "outputs",
+                            "portType": "",
+                            "dataType": "dynalist",
+                            "dynaPortOrder": 0,
+                            "dynaPortRef": {
+                                "previous": null,
+                                "next": null
+                            }
+                        }
+                    ],
+                    "name": "Finish",
+                    "color": "rgb(255,102,102)",
+                    "portsInOrder": [
+                        "be38662e-06f1-4355-bb6b-e21bec7bac08",
+                        "d1bf4939-4ba0-408e-b551-43fc43c25aae"
+                    ],
+                    "portsOutOrder": []
+                },
+                "ebe02041-be1a-4619-b705-fc37df8c4466": {
+                    "id": "ebe02041-be1a-4619-b705-fc37df8c4466",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Initializes a Discord client with the default intents and enables message content.\n\n##### ctx:\n- discord_client: A Discord client instance with the default intents and message content enabled.",
+                        "lineNo": [
+                            {
+                                "lineno": 9,
+                                "end_lineno": 26
+                            }
+                        ]
+                    },
+                    "x": -87.223,
+                    "y": 112.685,
+                    "ports": [
+                        {
+                            "id": "7d7d27ca-1680-43a0-b256-711b39d534cb",
+                            "type": "default",
+                            "extras": {},
+                            "x": -86.41249011031948,
+                            "y": 139.47499746130615,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "ebe02041-be1a-4619-b705-fc37df8c4466",
+                            "links": [
+                                "7050d17f-1631-4aee-86ab-e1f7051c6617"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "8ae37e59-11f0-4789-a444-0f44f823c077",
+                            "type": "default",
+                            "extras": {},
+                            "x": 48.887518795439156,
+                            "y": 139.47499746130615,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "ebe02041-be1a-4619-b705-fc37df8c4466",
+                            "links": [
+                                "fb5cc811-7ef0-4d62-bcbe-c9b94c7d824d"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordClientInit",
+                    "color": "rgb(0,102,204)",
+                    "portsInOrder": [
+                        "7d7d27ca-1680-43a0-b256-711b39d534cb"
+                    ],
+                    "portsOutOrder": [
+                        "8ae37e59-11f0-4789-a444-0f44f823c077"
+                    ]
+                },
+                "81b7ff64-a91a-4167-9d54-52e913dcc2d7": {
+                    "id": "81b7ff64-a91a-4167-9d54-52e913dcc2d7",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Deploys the Discord bot using the provided token, running either in Xircuits or as a standalone script.\n\n##### inPorts:\n- token: The bot token to be used for authentication. \n    If not provided, will search for 'DISCORD_BOT_TOKEN' from env.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
+                        "lineNo": [
+                            {
+                                "lineno": 101,
+                                "end_lineno": 134
+                            }
+                        ]
+                    },
+                    "x": 872.414,
+                    "y": 12.78,
+                    "ports": [
+                        {
+                            "id": "7effddbc-3409-42a0-b5c7-4525fc926478",
+                            "type": "default",
+                            "extras": {},
+                            "x": 873.2125620958519,
+                            "y": 39.57499531164027,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "81b7ff64-a91a-4167-9d54-52e913dcc2d7",
+                            "links": [
+                                "0899539d-fbec-4f8b-89bc-746d4137fbd1"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "ffb47cd7-4a08-412e-b3a8-30b19a548775",
+                            "type": "default",
+                            "extras": {},
+                            "x": 873.2125620958519,
+                            "y": 61.17499162649876,
+                            "name": "parameter-string-token",
+                            "alignment": "left",
+                            "parentNode": "81b7ff64-a91a-4167-9d54-52e913dcc2d7",
+                            "links": [
+                                "56c3de2e-e2b2-45cd-8bd7-45070b54000d"
+                            ],
+                            "in": true,
+                            "label": "token",
+                            "varName": "token",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "f688616e-7b4e-4b7a-8ba5-aec650245ca0",
+                            "type": "default",
+                            "extras": {},
+                            "x": 1016.0750571823298,
+                            "y": 39.57499531164027,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "81b7ff64-a91a-4167-9d54-52e913dcc2d7",
+                            "links": [
+                                "ddf0437d-56ef-4b20-bda6-6142f72ecca0"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordDeployBot",
+                    "color": "rgb(15,255,255)",
+                    "portsInOrder": [
+                        "7effddbc-3409-42a0-b5c7-4525fc926478",
+                        "ffb47cd7-4a08-412e-b3a8-30b19a548775"
+                    ],
+                    "portsOutOrder": [
+                        "f688616e-7b4e-4b7a-8ba5-aec650245ca0"
+                    ]
+                },
+                "3208834e-223b-47e4-8aa5-bbc81bf0296a": {
+                    "id": "3208834e-223b-47e4-8aa5-bbc81bf0296a",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Adds a shutdown command for the Discord bot that can be executed by an administrator.\n\n##### inPorts:\n- shutdown_cmd: The command that, when received from an administrator, will shut down the bot.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
+                        "lineNo": [
+                            {
+                                "lineno": 73,
+                                "end_lineno": 97
+                            }
+                        ]
+                    },
+                    "x": 586.647,
+                    "y": 8.185,
+                    "ports": [
+                        {
+                            "id": "309479b4-8070-455b-b988-5ab510b88b21",
+                            "type": "default",
+                            "extras": {},
+                            "x": 587.4375921911742,
+                            "y": 34.97499822904397,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "3208834e-223b-47e4-8aa5-bbc81bf0296a",
+                            "links": [
+                                "0c836c00-49c8-4df4-a4f6-874b0ae69973"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "bbd85b37-8966-4cb9-924b-a75f0d023350",
+                            "type": "default",
+                            "extras": {},
+                            "x": 587.4375921911742,
+                            "y": 56.57501373734782,
+                            "name": "parameter-string-shutdown_cmd",
+                            "alignment": "left",
+                            "parentNode": "3208834e-223b-47e4-8aa5-bbc81bf0296a",
+                            "links": [
+                                "458ae3b9-49a9-42fd-acf7-05f32d965647"
+                            ],
+                            "in": true,
+                            "label": "★shutdown_cmd",
+                            "varName": "★shutdown_cmd",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "43b7070a-7e86-47bc-82a8-03168e3c9ae7",
+                            "type": "default",
+                            "extras": {},
+                            "x": 745.7625571823298,
+                            "y": 34.97499822904397,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "3208834e-223b-47e4-8aa5-bbc81bf0296a",
+                            "links": [
+                                "0899539d-fbec-4f8b-89bc-746d4137fbd1"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordShutdownBot",
+                    "color": "rgb(255,102,102)",
+                    "portsInOrder": [
+                        "309479b4-8070-455b-b988-5ab510b88b21",
+                        "bbd85b37-8966-4cb9-924b-a75f0d023350"
+                    ],
+                    "portsOutOrder": [
+                        "43b7070a-7e86-47bc-82a8-03168e3c9ae7"
+                    ]
+                },
+                "6e341760-66c8-43bb-aed3-5ec59882b1b5": {
+                    "id": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_utils/utils.py",
+                        "description": "Concatenates two strings.\n\n##### inPorts:\n- a (str): The first string.\n- b (str): The second string.\n\n##### outPorts:\n- out (str): The concatenated result of strings a and b.",
+                        "lineNo": [
+                            {
+                                "lineno": 78,
+                                "end_lineno": 93
+                            }
+                        ]
+                    },
+                    "x": 573.609,
+                    "y": 176.183,
+                    "ports": [
+                        {
+                            "id": "5f40efff-c2cb-49b1-96ef-d489805517ed",
+                            "type": "default",
+                            "extras": {},
+                            "x": 574.4000221734856,
+                            "y": 202.97501435153805,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                            "links": [
+                                "89dd19d2-4c87-4707-a641-33e88b88cfa4"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "16156cce-fa8a-4371-9d95-89bff4878756",
+                            "type": "default",
+                            "extras": {},
+                            "x": 574.4000221734856,
+                            "y": 224.57504905328727,
+                            "name": "parameter-string-a",
+                            "alignment": "left",
+                            "parentNode": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                            "links": [
+                                "4d17155e-424c-4293-8dd3-66d0ab7889c0"
+                            ],
+                            "in": true,
+                            "label": "a",
+                            "varName": "a",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "cf178afa-3f39-47c0-85f8-2516925ca1a1",
+                            "type": "default",
+                            "extras": {},
+                            "x": 574.4000221734856,
+                            "y": 246.17500698125505,
+                            "name": "parameter-string-b",
+                            "alignment": "left",
+                            "parentNode": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                            "links": [
+                                "bda6826a-0cca-473d-9079-2ba53653d8c2"
+                            ],
+                            "in": true,
+                            "label": "b",
+                            "varName": "b",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "bbc3363c-377a-4055-95a6-678a6727f1fe",
+                            "type": "default",
+                            "extras": {},
+                            "x": 691.1999681247434,
+                            "y": 202.97501435153805,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                            "links": [
+                                "adb87cb4-512f-405a-8613-b7122802e6d6"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "87cc924c-6614-4616-aae0-615f518049cc",
+                            "type": "default",
+                            "extras": {},
+                            "x": 691.1999681247434,
+                            "y": 224.57504905328727,
+                            "name": "parameter-out-string-out",
+                            "alignment": "right",
+                            "parentNode": "6e341760-66c8-43bb-aed3-5ec59882b1b5",
+                            "links": [
+                                "472ff44c-81ab-4b52-8327-6f94d3db8b8e"
+                            ],
+                            "in": false,
+                            "label": "out",
+                            "varName": "out",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "ConcatString",
+                    "color": "rgb(255,153,0)",
+                    "portsInOrder": [
+                        "5f40efff-c2cb-49b1-96ef-d489805517ed",
+                        "16156cce-fa8a-4371-9d95-89bff4878756",
+                        "cf178afa-3f39-47c0-85f8-2516925ca1a1"
+                    ],
+                    "portsOutOrder": [
+                        "bbc3363c-377a-4055-95a6-678a6727f1fe",
+                        "87cc924c-6614-4616-aae0-615f518049cc"
+                    ]
+                },
+                "89c846a2-242f-4d66-911e-ea208c83706f": {
+                    "id": "89c846a2-242f-4d66-911e-ea208c83706f",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "Sends a message with an optional attachment to the same channel as the received Discord message.\nIt uses the provided message as the response and references the original message in the reply.\n\n##### inPorts:\n- msg_response: The response message to be sent.\n- discord_msg (str): The original Discord message that the bot is replying to.\n- attachment_path (str): The local path to the file to be sent as an attachment. Defaults to None.",
+                        "lineNo": [
+                            {
+                                "lineno": 194,
+                                "end_lineno": 218
+                            }
+                        ]
+                    },
+                    "x": 767.99,
+                    "y": 308.933,
+                    "ports": [
+                        {
+                            "id": "a132a3ea-6d55-471a-9fbf-0a8267fe3353",
+                            "type": "default",
+                            "extras": {},
+                            "x": 768.7875516546176,
+                            "y": 335.7250588803313,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "89c846a2-242f-4d66-911e-ea208c83706f",
+                            "links": [
+                                "adb87cb4-512f-405a-8613-b7122802e6d6"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "1ce40a55-44ab-4a14-9640-5b6756aa40d0",
+                            "type": "default",
+                            "extras": {},
+                            "x": 768.7875516546176,
+                            "y": 357.32501680829904,
+                            "name": "parameter-string-msg_response",
+                            "alignment": "left",
+                            "parentNode": "89c846a2-242f-4d66-911e-ea208c83706f",
+                            "links": [
+                                "472ff44c-81ab-4b52-8327-6f94d3db8b8e"
+                            ],
+                            "in": true,
+                            "label": "★msg_response",
+                            "varName": "★msg_response",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "e1cd6ca0-b3f3-4e36-b7b6-c4b398bb45c9",
+                            "type": "default",
+                            "extras": {},
+                            "x": 768.7875516546176,
+                            "y": 378.92505151004826,
+                            "name": "parameter-discord.message.Message-discord_msg",
+                            "alignment": "left",
+                            "parentNode": "89c846a2-242f-4d66-911e-ea208c83706f",
+                            "links": [
+                                "395192a1-4a8c-4ee9-83e4-063508951d1d"
+                            ],
+                            "in": true,
+                            "label": "★discord_msg",
+                            "varName": "★discord_msg",
+                            "portType": "",
+                            "dataType": "discord.message.Message"
+                        },
+                        {
+                            "id": "7c99ec93-980e-417f-981d-f8710bf1c9aa",
+                            "type": "default",
+                            "extras": {},
+                            "x": 768.7875516546176,
+                            "y": 400.525009438016,
+                            "name": "parameter-string-attachment_path",
+                            "alignment": "left",
+                            "parentNode": "89c846a2-242f-4d66-911e-ea208c83706f",
+                            "links": [],
+                            "in": true,
+                            "label": "attachment_path",
+                            "varName": "attachment_path",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "26d7cde0-bcb7-4952-aca8-0db12528f0b4",
+                            "type": "default",
+                            "extras": {},
+                            "x": 928.3376726500971,
+                            "y": 335.7250588803313,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "89c846a2-242f-4d66-911e-ea208c83706f",
+                            "links": [],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        }
+                    ],
+                    "name": "DiscordPostMessage",
+                    "color": "rgb(255,153,0)",
+                    "portsInOrder": [
+                        "a132a3ea-6d55-471a-9fbf-0a8267fe3353",
+                        "1ce40a55-44ab-4a14-9640-5b6756aa40d0",
+                        "e1cd6ca0-b3f3-4e36-b7b6-c4b398bb45c9",
+                        "7c99ec93-980e-417f-981d-f8710bf1c9aa"
+                    ],
+                    "portsOutOrder": [
+                        "26d7cde0-bcb7-4952-aca8-0db12528f0b4"
+                    ]
+                },
+                "498c47ca-84d0-4233-a8f9-33605e92e47b": {
+                    "id": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                    "type": "custom-node",
+                    "selected": true,
+                    "extras": {
+                        "type": "library_component",
+                        "path": "xai_components/xai_discord/discord_components.py",
+                        "description": "This component listens for a specified message trigger and, when detected, \nexecutes the provided on_message component, passing the received message as input.\n\n##### inPorts:\n- on_message: A BaseComponent to be executed when the message trigger is detected.\n- msg_trigger (str): The message trigger that the bot listens for.\n\n##### outPorts:\n- discord_msg: The received message that triggered the on_message component.\n- str_msg (str): The received message content as a string with the msg_trigger removed.\n\n##### ctx:\n- on_message_handlers: A list of message handling functions that are called when a message is received.",
+                        "lineNo": [
+                            {
+                                "lineno": 137,
+                                "end_lineno": 170
+                            }
+                        ]
+                    },
+                    "x": 96.343,
+                    "y": 114.81,
+                    "ports": [
+                        {
+                            "id": "d4d9e142-32e4-402d-8016-d494554d2511",
+                            "type": "default",
+                            "extras": {},
+                            "x": 97.1375372211467,
+                            "y": 141.60001895796495,
+                            "name": "in-0",
+                            "alignment": "left",
+                            "parentNode": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                            "links": [
+                                "fb5cc811-7ef0-4d62-bcbe-c9b94c7d824d"
+                            ],
+                            "in": true,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "5dcb215d-7aa5-4fd9-8d42-06659db5020b",
+                            "type": "default",
+                            "extras": {},
+                            "x": 97.1375372211467,
+                            "y": 163.20001527282344,
+                            "name": "parameter-string-msg_trigger",
+                            "alignment": "left",
+                            "parentNode": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                            "links": [
+                                "6edb84ef-1512-40af-9ec8-67e104f0736b"
+                            ],
+                            "in": true,
+                            "label": "★msg_trigger",
+                            "varName": "★msg_trigger",
+                            "portType": "",
+                            "dataType": "string"
+                        },
+                        {
+                            "id": "c4e027fb-dcf4-44f8-b528-5b05a736a933",
+                            "type": "default",
+                            "extras": {},
+                            "x": 277.97507008032517,
+                            "y": 141.60001895796495,
+                            "name": "out-0",
+                            "alignment": "right",
+                            "parentNode": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                            "links": [
+                                "0c836c00-49c8-4df4-a4f6-874b0ae69973"
+                            ],
+                            "in": false,
+                            "label": "▶",
+                            "varName": "▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "5007b201-a028-44f6-9895-e24dac36d034",
+                            "type": "default",
+                            "extras": {},
+                            "x": 277.97507008032517,
+                            "y": 163.20001527282344,
+                            "name": "out-flow-on_message",
+                            "alignment": "right",
+                            "parentNode": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                            "links": [
+                                "89dd19d2-4c87-4707-a641-33e88b88cfa4"
+                            ],
+                            "in": false,
+                            "label": "on_message ▶",
+                            "varName": "on_message ▶",
+                            "portType": "",
+                            "dataType": ""
+                        },
+                        {
+                            "id": "8096cb09-76da-440c-a822-d250de43a5b6",
+                            "type": "default",
+                            "extras": {},
+                            "x": 277.97507008032517,
+                            "y": 184.80001158768192,
+                            "name": "parameter-out-discord.message.Message-discord_msg",
+                            "alignment": "right",
+                            "parentNode": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                            "links": [
+                                "395192a1-4a8c-4ee9-83e4-063508951d1d"
+                            ],
+                            "in": false,
+                            "label": "discord_msg",
+                            "varName": "discord_msg",
+                            "portType": "",
+                            "dataType": "discord.message.Message"
+                        },
+                        {
+                            "id": "9dd839d3-e841-4d50-afa1-20198cb318fd",
+                            "type": "default",
+                            "extras": {},
+                            "x": 277.97507008032517,
+                            "y": 206.4000079025404,
+                            "name": "parameter-out-string-str_msg",
+                            "alignment": "right",
+                            "parentNode": "498c47ca-84d0-4233-a8f9-33605e92e47b",
+                            "links": [
+                                "bda6826a-0cca-473d-9079-2ba53653d8c2"
+                            ],
+                            "in": false,
+                            "label": "str_msg",
+                            "varName": "str_msg",
+                            "portType": "",
+                            "dataType": "string"
+                        }
+                    ],
+                    "name": "DiscordTriggerBranch",
+                    "color": "rgb(255,204,204)",
+                    "portsInOrder": [
+                        "d4d9e142-32e4-402d-8016-d494554d2511",
+                        "5dcb215d-7aa5-4fd9-8d42-06659db5020b"
+                    ],
+                    "portsOutOrder": [
+                        "c4e027fb-dcf4-44f8-b528-5b05a736a933",
+                        "5007b201-a028-44f6-9895-e24dac36d034",
+                        "8096cb09-76da-440c-a822-d250de43a5b6",
+                        "9dd839d3-e841-4d50-afa1-20198cb318fd"
                     ]
                 }
             }
